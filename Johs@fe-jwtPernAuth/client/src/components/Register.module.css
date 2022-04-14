@@ -1,0 +1,62 @@
+.boxContainer{
+    width: 300px;
+    min-height: 450px;
+    border-radius: 19px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(15, 15, 15, 0.28);
+    position: relative;
+    overflow: hidden;
+    align-content: center;
+    left: 450px;
+    margin-top: 100px;
+    
+    
+  }
+  
+  .txt{
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 1.24;
+    z-index: 20;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  h5{
+    text-align: center;
+    font-weight: 200;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .details{
+    margin-left: 40px;
+    padding: 10px;
+    margin-top:5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    
+  }
+  .button2{
+    border: none;
+    padding: 5px;
+    color: white;
+    background-color:black;
+    font-size:25px ;
+    margin-left: 50px;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+    width: 180px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+    
+    
+  }
+  .link{
+      text-decoration: none;
+    
+  }
